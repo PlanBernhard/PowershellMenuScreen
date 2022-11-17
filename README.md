@@ -1,2 +1,2 @@
 # PowershellMenuScreen
-An interactive menu for powershell (commercial use is not allowed!)
+An interactive menu for powershell. Commercial use is not allowed!
