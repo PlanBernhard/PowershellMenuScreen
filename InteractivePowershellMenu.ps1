@@ -1,7 +1,8 @@
 ﻿<#
     .Description
     Created by Bernhard Sumser (2020-11-28)
-    This powershell script displays an interactive menu by using the passed parameters
+    This powershell script displays an interactive menu by using the passed parameters.
+    Please beware the not existing licence. If you are a company the usage is forbidden.
 #>
 
 [CmdletBinding()]
